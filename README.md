@@ -2,7 +2,7 @@
 Proyecto para hacer una comparativa entre diferentes algoritmos de Machine Learning en un problema de clasificación binaria; el problema en cuestión es un dataset de tripulantes del Titanic a los cuales se desea hacer predicciones sobre si sobrevivieron o no.
 
 ## Tabla de Contenidos
-- [Instalación](#instalacion)
+- [Instalación](#instalación)
 - [Uso](#uso)
 
 ## Instalación
