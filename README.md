@@ -28,6 +28,6 @@ En la carpeta donde clonó el repositorio:
 jupyter notebook
 ```
 Posteriormente, en el ambiente de Jupyter selecciona el archivo con extension **.ipynb**
-Si desea volver a ejecutar alguna celda de código, simplemente seleccione dicha celda.
+Si desea volver a ejecutar alguna celda de código, simplemente seleccione dicha celda y presione **CTRL + Enter**.
 
 **Aclaración:** No es necesario volver a ejecutar ninguna celda de código, todo el análisis y pruebas fueron ejecutadas con anterioridad. 
