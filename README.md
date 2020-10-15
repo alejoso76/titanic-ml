@@ -31,3 +31,5 @@ Posteriormente, en el ambiente de Jupyter selecciona el archivo con extension **
 Si desea volver a ejecutar alguna celda de código, simplemente seleccione dicha celda y presione **CTRL + Enter**.
 
 **Aclaración:** No es necesario volver a ejecutar ninguna celda de código, todo el análisis y pruebas fueron ejecutadas con anterioridad. 
+
+De igual manera, simplemente puede dar clic en el archivo **.ipynb** aquí en la página del repositorio y podrá ver todo el proceso.
